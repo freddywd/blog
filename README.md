@@ -7,7 +7,7 @@ Things you may want to cover:
 
 * Ruby versiones
 
-* System dependencies
+* System dependencios
 
 * Configuration
 
